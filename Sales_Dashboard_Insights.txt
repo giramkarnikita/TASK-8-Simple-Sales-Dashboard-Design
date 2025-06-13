@@ -1,0 +1,10 @@
+
+Simple Sales Dashboard - Insights
+=================================
+
+1. The Technology category had the highest total sales among all product categories.
+2. The West region showed the highest sales performance, especially in Q3.
+3. Sales showed an increasing trend from January to November, with peaks around mid-year.
+4. Furniture category sales were stronger in the Central region compared to others.
+
+These insights were derived using line, bar, and donut charts with slicers for Region and Category.
